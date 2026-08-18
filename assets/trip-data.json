@@ -1,0 +1,2315 @@
+[
+  {
+    "date": "05.03.2027",
+    "weekday": "יום שישי",
+    "title": "נחיתה בהאנוי - ערב רגוע בלבד",
+    "hotel": "Proverb Hotel Hanoi",
+    "guide": "ללא מדריך | נהג פרטי מהשדה | עלות משוערת לשירות: $25 ל-4",
+    "guide_cost": 25.0,
+    "items": [
+      {
+        "time": "19:30",
+        "from": "Noi Bai International Airport",
+        "to": "Proverb Hotel Hanoi",
+        "drive": "45-60 דק׳",
+        "stay": "45-75 דק׳",
+        "cost": 25.0,
+        "what": "נחיתה ב-Noi Bai International Airport. ביקורת דרכונים ואיסוף מזוודות.",
+        "notes": "ללא שינוי"
+      },
+      {
+        "time": "20:30-21:30",
+        "from": "Noi Bai International Airport",
+        "to": "Proverb Hotel Hanoi",
+        "drive": "45-60 דק׳",
+        "stay": "כשעה",
+        "cost": 0.0,
+        "what": "הסעה פרטית למלון, צ׳ק-אין והתארגנות.",
+        "notes": "ללא שינוי"
+      },
+      {
+        "time": "21:30 ואילך",
+        "from": "-",
+        "to": "ברגל / קרוב למלון",
+        "drive": "-",
+        "stay": "ערב",
+        "cost": 0.0,
+        "what": "ארוחת ערב קלה קרוב למלון ומנוחה. לא מתכננים אטרקציות ביום הנחיתה.",
+        "notes": "ללא שינוי"
+      }
+    ],
+    "maps": [
+      {
+        "label": "מפת הגעה",
+        "url": "https://www.google.com/maps/dir/?api=1&origin=Noi+Bai+International+Airport%2C+Hanoi%2C+Vietnam&destination=Proverb+Hotel+Hanoi%2C+21+Bat+Su%2C+Hanoi%2C+Vietnam&travelmode=driving"
+      }
+    ],
+    "costs": {
+      "guide": 25.0,
+      "attr": 0.0,
+      "without_hotel": 25.0,
+      "hotel_night": 302.48819380000003,
+      "total": 327.48819380000003
+    },
+    "route": [
+      {
+        "name": "Noi Bai Airport",
+        "lat": 21.2187,
+        "lon": 105.8042
+      },
+      {
+        "name": "Proverb Hotel Hanoi",
+        "lat": 21.0342,
+        "lon": 105.847
+      }
+    ]
+  },
+  {
+    "date": "06.03.2027",
+    "weekday": "יום שבת",
+    "title": "האנוי הקלאסית בקצב רגוע",
+    "hotel": "Proverb Hotel Hanoi",
+    "guide": "ללא מדריך | Grab/מוניות נקודתיות | עלות משוערת לשירות: $15 ל-4",
+    "guide_cost": 15.0,
+    "items": [
+      {
+        "time": "08:30-11:30",
+        "from": "-",
+        "to": "ברגל מהמלון",
+        "drive": "5-20 דקות בין נקודות",
+        "stay": "3 שעות",
+        "cost": 15.0,
+        "what": "הרובע העתיק: Hang Gai, Hang Dao, Hang Bac ושוק Dong Xuan. הליכה עם עצירות קפה וקניות",
+        "notes": "בגשם: Dong Xuan Market, בתי קפה וחנויות מקורות"
+      },
+      {
+        "time": "11:30-12:30",
+        "from": "Old Quarter",
+        "to": "Train Street",
+        "drive": "10-15 דקות",
+        "stay": "שעה",
+        "cost": 5.0,
+        "what": "Train Street - להגיע ב-Grab קצר, לשבת לקפה ולחוות את האווירה. לפעול לפי הנחיות הגישה במקום",
+        "notes": "בגשם קל עדיין אפשרי; בגשם כבד לדחות"
+      },
+      {
+        "time": "13:00-14:00",
+        "from": "-",
+        "to": "נסיעה קצרה/ברגל",
+        "drive": "-",
+        "stay": "שעה",
+        "cost": 0.0,
+        "what": "ארוחת צהריים ומנוחה",
+        "notes": ""
+      },
+      {
+        "time": "14:30-16:00",
+        "from": "Train Street/מרכז",
+        "to": "Temple of Literature",
+        "drive": "10-15 דקות",
+        "stay": "1.5 שעות",
+        "cost": 11.0,
+        "what": "Temple of Literature - גנים, שערים, חצרות ואדריכלות מסורתית; ביקור ממוקד בלי מוזיאונים נוספים",
+        "notes": "מתאים גם לגשם קל"
+      },
+      {
+        "time": "16:30-18:00",
+        "from": "-",
+        "to": "Grab קצר",
+        "drive": "10-15 דקות",
+        "stay": "1.5 שעות",
+        "cost": 0.0,
+        "what": "קפה רגוע וחזרה לאזור האגם",
+        "notes": ""
+      },
+      {
+        "time": "18:00-20:00",
+        "from": "-",
+        "to": "סיבוב ערב נוסף סביב Hoan Kiem. התאורה והאווירה שונות מהיום",
+        "drive": "- ",
+        "stay": "2 שעות",
+        "cost": 0.0,
+        "what": "סיבוב ערב נוסף סביב Hoan Kiem. התאורה והאווירה שונות מהיום",
+        "notes": "בגשם: קפה עם תצפית על האגם"
+      }
+    ],
+    "maps": [
+      {
+        "label": "Google Maps - מסלול היום",
+        "url": "https://www.google.com/maps/dir/?api=1&origin=Proverb+Hotel+Hanoi%2C+21+Bat+Su%2C+Hanoi%2C+Vietnam&destination=Proverb+Hotel+Hanoi%2C+21+Bat+Su%2C+Hanoi%2C+Vietnam&travelmode=driving&waypoints=Dong+Xuan+Market%2C+Hanoi|Hanoi+Train+Street|Temple+of+Literature%2C+Hanoi|Hoan+Kiem+Lake%2C+Hanoi"
+      }
+    ],
+    "costs": {
+      "guide": 15.0,
+      "attr": 16.0,
+      "without_hotel": 31.0,
+      "hotel_night": 302.48819380000003,
+      "total": 333.48819380000003
+    },
+    "route": [
+      {
+        "name": "Proverb Hotel Hanoi",
+        "lat": 21.0342,
+        "lon": 105.847
+      },
+      {
+        "name": "Dong Xuan Market",
+        "lat": 21.0381,
+        "lon": 105.849
+      },
+      {
+        "name": "Train Street",
+        "lat": 21.029,
+        "lon": 105.8421
+      },
+      {
+        "name": "Temple of Literature",
+        "lat": 21.028,
+        "lon": 105.8358
+      },
+      {
+        "name": "Hoan Kiem Lake",
+        "lat": 21.0288,
+        "lon": 105.8522
+      },
+      {
+        "name": "Proverb Hotel Hanoi",
+        "lat": 21.0342,
+        "lon": 105.847
+      }
+    ]
+  },
+  {
+    "date": "07.03.2027",
+    "weekday": "יום ראשון",
+    "title": "האנוי הנינוחה - נהר, אגם והרובע הצרפתי",
+    "hotel": "Proverb Hotel Hanoi",
+    "guide": "ללא מדריך | נהג פרטי לחצי יום | עלות משוערת לשירות: $60 ל-4",
+    "guide_cost": 60.0,
+    "items": [
+      {
+        "time": "09:00",
+        "from": "מלון",
+        "to": "Long Bien Bridge",
+        "drive": "15-20 דקות",
+        "stay": "45 דקות",
+        "cost": 60.0,
+        "what": "יציאה עם נהג פרטי לחצי יום. עצירה לתצפית על Long Bien Bridge והנהר האדום",
+        "notes": "בגשם: לדלג על התצפית ולעבור ישירות לקפה/West Lake"
+      },
+      {
+        "time": "10:15-11:00",
+        "from": "Long Bien",
+        "to": "Tran Quoc Pagoda",
+        "drive": "15-20 דקות",
+        "stay": "45 דקות",
+        "cost": 0.0,
+        "what": "Tran Quoc Pagoda - ביקור קצר ליד West Lake, גנים ופגודה עתיקה",
+        "notes": "מתאים גם לגשם קל"
+      },
+      {
+        "time": "11:15-12:30",
+        "from": "-",
+        "to": "סביב West Lake",
+        "drive": "נסיעות קצרות",
+        "stay": "1-1.25 שעות",
+        "cost": 0.0,
+        "what": "נסיעה רגועה סביב West Lake ועצירת קפה מול המים",
+        "notes": ""
+      },
+      {
+        "time": "13:00-15:30",
+        "from": "West Lake",
+        "to": "Hotel",
+        "drive": "20-30 דקות",
+        "stay": "2.5 שעות",
+        "cost": 0.0,
+        "what": "ארוחת צהריים וחזרה למלון למנוחה/ספא",
+        "notes": ""
+      },
+      {
+        "time": "16:30-18:30",
+        "from": "Hotel",
+        "to": "French Quarter -> Hotel",
+        "drive": "10-20 דקות",
+        "stay": "2 שעות",
+        "cost": 0.0,
+        "what": "הרובע הצרפתי מבחוץ: Hanoi Opera House, רחובות רחבים, מבנים קולוניאליים וקפה",
+        "notes": "בגשם: קפה/ספא/קניות"
+      }
+    ],
+    "maps": [
+      {
+        "label": "Google Maps - מסלול היום",
+        "url": "https://www.google.com/maps/dir/?api=1&origin=Proverb+Hotel+Hanoi%2C+21+Bat+Su%2C+Hanoi%2C+Vietnam&destination=Proverb+Hotel+Hanoi%2C+21+Bat+Su%2C+Hanoi%2C+Vietnam&travelmode=driving&waypoints=Long+Bien+Bridge%2C+Hanoi|Tran+Quoc+Pagoda%2C+Hanoi|Hanoi+Opera+House"
+      }
+    ],
+    "costs": {
+      "guide": 60.0,
+      "attr": 0.0,
+      "without_hotel": 60.0,
+      "hotel_night": 302.48819380000003,
+      "total": 362.48819380000003
+    },
+    "route": [
+      {
+        "name": "Proverb Hotel Hanoi",
+        "lat": 21.0342,
+        "lon": 105.847
+      },
+      {
+        "name": "Long Bien Bridge",
+        "lat": 21.0421,
+        "lon": 105.8604
+      },
+      {
+        "name": "Tran Quoc Pagoda",
+        "lat": 21.0478,
+        "lon": 105.8369
+      },
+      {
+        "name": "Hanoi Opera House",
+        "lat": 21.0243,
+        "lon": 105.8573
+      },
+      {
+        "name": "Proverb Hotel Hanoi",
+        "lat": 21.0342,
+        "lon": 105.847
+      }
+    ]
+  },
+  {
+    "date": "08.03.2027",
+    "weekday": "יום שני",
+    "title": "יום נופי מהאנוי ל-Yen Bai ואגם Thac Ba",
+    "hotel": "Le Blanc Heritage Hotel",
+    "guide": "ללא מדריך | לימוזינה פרטית Hanoi → Thac Ba → Yen Bai | עלות משוערת לשירות: $165 ל-4",
+    "guide_cost": 165.0,
+    "items": [
+      {
+        "time": "08:00",
+        "from": "Solare De Monte Hotel",
+        "to": "Thac Ba Lake",
+        "drive": "כ-2.5-3.5 שעות כולל עצירה",
+        "stay": "2-2.5 שעות",
+        "cost": 165.0,
+        "what": "צק-אאוט ויציאה ברכב פרטי/לימוזינה צפונה. עצירת קפה ושירותים בדרך",
+        "notes": "אם גשם כבד: נסיעה ישירה יותר ל-Yen Bai, ארוחת צהריים ומלון"
+      },
+      {
+        "time": "11:30-12:30",
+        "from": "-",
+        "to": "בדרך לאגם",
+        "drive": "נסיעה קצרה",
+        "stay": "שעה",
+        "cost": 0.0,
+        "what": "ארוחת צהריים באזור Yen Binh/Thac Ba",
+        "notes": ""
+      },
+      {
+        "time": "13:00-15:30",
+        "from": "נקודת השייט באגם",
+        "to": "חזרה לרכב",
+        "drive": "- ",
+        "stay": "2-2.5 שעות",
+        "cost": 50.0,
+        "what": "Thac Ba Lake - שייט רגוע בין איים ירוקים, מים, גבעות ונופי צפון וייטנאם. עדיף סירה פרטית ל-4",
+        "notes": "בגשם חזק/רוח: לא לצאת לשייט, לעשות תצפיות קצרות ברכב"
+      },
+      {
+        "time": "15:30-16:15",
+        "from": "-",
+        "to": "סביב Thac Ba Lake",
+        "drive": "נסיעה קצרה",
+        "stay": "30-45 דקות",
+        "cost": 0.0,
+        "what": "עצירת צילום/תצפית נגישה לרכב על האגם לפי המלצת הנהג והראות",
+        "notes": ""
+      },
+      {
+        "time": "16:15-17:00",
+        "from": "Thac Ba Lake",
+        "to": "Le Blanc Heritage Hotel",
+        "drive": "45-60 דקות",
+        "stay": "45-60 דקות",
+        "cost": 0.0,
+        "what": "נסיעה ל-Le Blanc Heritage Hotel, צק-אין, בריכה ומנוחה",
+        "notes": ""
+      },
+      {
+        "time": "19:00",
+        "from": "מלון",
+        "to": "מרכז Yen Bai -> מלון",
+        "drive": "10-20 דקות",
+        "stay": "2 שעות",
+        "cost": 0.0,
+        "what": "ערב רגוע בעיר Yen Bai: שיטוט קצר/קפה וארוחת ערב, בלי להעמיס",
+        "notes": "בגשם: להישאר במלון/ספא"
+      }
+    ],
+    "maps": [
+      {
+        "label": "Google Maps - Hanoi → Thac Ba Lake → Le Blanc",
+        "url": "https://www.google.com/maps/dir/?api=1&origin=Proverb+Hotel+Hanoi%2C+21+Bat+Su%2C+Hanoi%2C+Vietnam&destination=Le+Blanc+Heritage+Hotel%2C+Yen+Bai%2C+Vietnam&travelmode=driving&waypoints=Thac+Ba+Lake%2C+Yen+Bai%2C+Vietnam"
+      }
+    ],
+    "costs": {
+      "guide": 165.0,
+      "attr": 50.0,
+      "without_hotel": 215.0,
+      "hotel_night": 177.14646000000002,
+      "total": 392.14646000000005
+    },
+    "route": [
+      {
+        "name": "Proverb Hotel Hanoi",
+        "lat": 21.0342,
+        "lon": 105.847
+      },
+      {
+        "name": "Thac Ba Lake",
+        "lat": 21.747,
+        "lon": 104.9
+      },
+      {
+        "name": "Le Blanc Heritage Hotel",
+        "lat": 21.7168,
+        "lon": 104.8986
+      }
+    ]
+  },
+  {
+    "date": "09.03.2027",
+    "weekday": "יום שלישי",
+    "title": "Yen Bai לסאפה - עליה להרים + Cat Cat",
+    "hotel": "Silk Path Grand Sapa Resort & Spa",
+    "guide": "ללא מדריך | נהג פרטי Yen Bai → Lao Cai → Sapa | עלות משוערת לשירות: $120 ל-4",
+    "guide_cost": 120.0,
+    "items": [
+      {
+        "time": "08:30",
+        "from": "Le Blanc Heritage Hotel",
+        "to": "Lao Cai -> Sapa",
+        "drive": "כ-3-4 שעות כולל עצירות",
+        "stay": "2.5-3 שעות",
+        "cost": 120.0,
+        "what": "יציאה מ-Yen Bai צפונה ברכב פרטי. בקשה לנהג: 2-3 עצירות תצפית בטוחות בדרך לפי הראות",
+        "notes": "בגשם/ערפל: פחות עצירות, קפה בדרך והגעה מוקדמת למלון"
+      },
+      {
+        "time": "10:30-11:00",
+        "from": "-",
+        "to": "על הציר Yen Bai-Lao Cai",
+        "drive": "-",
+        "stay": "30 דקות",
+        "cost": 0.0,
+        "what": "עצירת קפה/צילום בדרך צפונה, לפי נקודת הנוף הטובה ביותר באותו בוקר",
+        "notes": ""
+      },
+      {
+        "time": "11:30-12:00",
+        "from": "-",
+        "to": "Lao Cai",
+        "drive": "-",
+        "stay": "30 דקות",
+        "cost": 0.0,
+        "what": "עצירה קצרה ב-Lao Cai לפני העלייה לסאפה; נהר, עיר גבול ונוף ההרים שמתחיל להתרומם",
+        "notes": ""
+      },
+      {
+        "time": "12:00-13:30",
+        "from": "Lao Cai",
+        "to": "Sapa",
+        "drive": "כ-45-60 דקות נטו + עצירות",
+        "stay": "1.5 שעות",
+        "cost": 0.0,
+        "what": "העלייה מ-Lao Cai לסאפה. לעצור ב-1-2 מפרצי תצפית בטוחים לפי מזג האוויר - ההרים נעשים דרמטיים יותר",
+        "notes": ""
+      },
+      {
+        "time": "13:30-14:30",
+        "from": "Sapa center",
+        "to": "hotel",
+        "drive": "נסיעה קצרה",
+        "stay": "שעה",
+        "cost": 0.0,
+        "what": "צק-אין, ארוחה קלה ומנוחה",
+        "notes": ""
+      },
+      {
+        "time": "15:00-18:00",
+        "from": "Hotel",
+        "to": "Cat Cat Village -> Hotel",
+        "drive": "10-20 דקות לכל כיוון",
+        "stay": "2-3 שעות",
+        "cost": 33.0,
+        "what": "Cat Cat Village - בתי Hmong, מפל Tien Sa, גלגלי מים, גשרים ונוף העמק. לבצע רק את המסלול הקל ולחזור במונית",
+        "notes": "אם שבילים רטובים/עייפים: מרכז סאפה, אגם, קפה וספא"
+      },
+      {
+        "time": "19:30",
+        "from": "מלון",
+        "to": "מרכז סאפה -> מלון",
+        "drive": "5-10 דקות",
+        "stay": "1.5-2 שעות",
+        "cost": 0.0,
+        "what": "ארוחת ערב במרכז סאפה וכיכר העיר",
+        "notes": "בגשם: ערב במלון/ספא"
+      }
+    ],
+    "maps": [
+      {
+        "label": "Google Maps - Yen Bai → Lao Cai → Sapa",
+        "url": "https://www.google.com/maps/dir/?api=1&origin=Le+Blanc+Heritage+Hotel%2C+Yen+Bai%2C+Vietnam&destination=Silk+Path+Grand+Sapa+Resort+%26+Spa%2C+Sa+Pa%2C+Vietnam&travelmode=driving&waypoints=Lao+Cai%2C+Vietnam|Cat+Cat+Village%2C+Sa+Pa%2C+Vietnam"
+      }
+    ],
+    "costs": {
+      "guide": 120.0,
+      "attr": 33.0,
+      "without_hotel": 153.0,
+      "hotel_night": 271.70176,
+      "total": 424.70176
+    },
+    "route": [
+      {
+        "name": "Le Blanc Heritage Hotel",
+        "lat": 21.7168,
+        "lon": 104.8986
+      },
+      {
+        "name": "Lao Cai",
+        "lat": 22.4856,
+        "lon": 103.9707
+      },
+      {
+        "name": "Silk Path Grand Sapa",
+        "lat": 22.3367,
+        "lon": 103.84
+      },
+      {
+        "name": "Cat Cat Village",
+        "lat": 22.3276,
+        "lon": 103.8294
+      },
+      {
+        "name": "Silk Path Grand Sapa",
+        "lat": 22.3367,
+        "lon": 103.84
+      }
+    ]
+  },
+  {
+    "date": "10.03.2027",
+    "weekday": "יום רביעי",
+    "title": "יום הנופים הגדול - Muong Hoa והכפרים",
+    "hotel": "Silk Path Grand Sapa Resort & Spa",
+    "guide": "מדריך פרטי + נהג - חובה | עלות משוערת לשירות: $108 ל-4",
+    "guide_cost": 108.0,
+    "items": [
+      {
+        "time": "08:30",
+        "from": "Hotel",
+        "to": "Y Linh Ho",
+        "drive": "נסיעה קצרה",
+        "stay": "30 דקות",
+        "cost": 108.0,
+        "what": "איסוף מהמלון עם מדריך מקומי פרטי ונהג",
+        "notes": "בגשם חזק/בוץ: להחליף עם יום Fansipan לפי הראות"
+      },
+      {
+        "time": "09:00-10:30",
+        "from": "-",
+        "to": "Y Linh Ho",
+        "drive": "- ",
+        "stay": "1.5 שעות",
+        "cost": 0.0,
+        "what": "Y Linh Ho - תחילת עמק Muong Hoa, תצפיות הרים וטרסות. לבקש easy walking בלבד",
+        "notes": "בגשם: נקודות תצפית מהרכב"
+      },
+      {
+        "time": "10:45-12:30",
+        "from": "Y Linh Ho",
+        "to": "Lao Chai",
+        "drive": "נסיעה קצרה",
+        "stay": "1.5-2 שעות",
+        "cost": 0.0,
+        "what": "Lao Chai - כפר Hmong שחור, בתי עץ מסורתיים וטרסות אורז",
+        "notes": ""
+      },
+      {
+        "time": "12:30-13:30",
+        "from": "Lao Chai",
+        "to": "Ta Van",
+        "drive": "נסיעה קצרה",
+        "stay": "שעה",
+        "cost": 0.0,
+        "what": "ארוחת צהריים באזור Ta Van",
+        "notes": ""
+      },
+      {
+        "time": "13:30-15:30",
+        "from": "-",
+        "to": "Ta Van",
+        "drive": "- ",
+        "stay": "2 שעות",
+        "cost": 0.0,
+        "what": "Ta Van - כפר Giay, נחל, גשרים, שדות ונוף כפרי. בלי טרק ארוך",
+        "notes": "בגשם: לקצר ולהישאר בכפרים נגישים"
+      },
+      {
+        "time": "16:00",
+        "from": "Ta Van",
+        "to": "Hotel",
+        "drive": "30-45 דקות",
+        "stay": "-",
+        "cost": 0.0,
+        "what": "חזרה למלון, ספא ומנוחה",
+        "notes": ""
+      }
+    ],
+    "maps": [
+      {
+        "label": "Google Maps - Muong Hoa והכפרים",
+        "url": "https://www.google.com/maps/dir/?api=1&origin=Silk+Path+Grand+Sapa+Resort+%26+Spa%2C+Sa+Pa%2C+Vietnam&destination=Silk+Path+Grand+Sapa+Resort+%26+Spa%2C+Sa+Pa%2C+Vietnam&travelmode=driving&waypoints=Y+Linh+Ho%2C+Sa+Pa%2C+Vietnam|Lao+Chai%2C+Sa+Pa%2C+Vietnam|Ta+Van%2C+Sa+Pa%2C+Vietnam"
+      }
+    ],
+    "costs": {
+      "guide": 108.0,
+      "attr": 0.0,
+      "without_hotel": 108.0,
+      "hotel_night": 271.70176,
+      "total": 379.70176
+    },
+    "route": [
+      {
+        "name": "Silk Path Grand Sapa",
+        "lat": 22.3367,
+        "lon": 103.84
+      },
+      {
+        "name": "Y Linh Ho",
+        "lat": 22.31,
+        "lon": 103.875
+      },
+      {
+        "name": "Lao Chai",
+        "lat": 22.303,
+        "lon": 103.886
+      },
+      {
+        "name": "Ta Van",
+        "lat": 22.305,
+        "lon": 103.929
+      },
+      {
+        "name": "Silk Path Grand Sapa",
+        "lat": 22.3367,
+        "lon": 103.84
+      }
+    ]
+  },
+  {
+    "date": "11.03.2027",
+    "weekday": "יום חמישי",
+    "title": "Fansipan וכביש הנוף",
+    "hotel": "Silk Path Grand Sapa Resort & Spa",
+    "guide": "ללא מדריך | נהג פרטי ליום מלא | עלות משוערת לשירות: $105 ל-4",
+    "guide_cost": 105.0,
+    "items": [
+      {
+        "time": "08:30",
+        "from": "Hotel",
+        "to": "Sun World Fansipan Legend",
+        "drive": "10-15 דקות",
+        "stay": "30 דקות",
+        "cost": 105.0,
+        "what": "בדיקת ראות ויציאה עם נהג פרטי. אם הפסגה בעננים כבדים - להחליף סדר/תכנית",
+        "notes": "אם אין ראות: שוק סאפה, בתי קפה, ספא ובריכת המלון"
+      },
+      {
+        "time": "09:00-12:00",
+        "from": "-",
+        "to": "Fansipan Legend",
+        "drive": "- ",
+        "stay": "3 שעות",
+        "cost": 209.0,
+        "what": "Fansipan Cable Car - רכבל מעל העמק, תצפיות הרים ופגודות בפסגה. לצמצם מדרגות ולהשתמש ברכבת/מעליות כשאפשר",
+        "notes": "אם אין ראות: לדחות ולא לבזבז כרטיס"
+      },
+      {
+        "time": "12:30-13:30",
+        "from": "-",
+        "to": "בדרך",
+        "drive": "-",
+        "stay": "שעה",
+        "cost": 0.0,
+        "what": "ארוחת צהריים",
+        "notes": ""
+      },
+      {
+        "time": "14:00-14:45",
+        "from": "Fansipan",
+        "to": "Silver Waterfall",
+        "drive": "25-35 דקות",
+        "stay": "45 דקות",
+        "cost": 3.0,
+        "what": "Silver Waterfall - עצירה קצרה ונגישה יחסית; לא לעשות עליות ארוכות",
+        "notes": "בגשם חזק: לצפות מרחוק/לוותר"
+      },
+      {
+        "time": "15:00-16:00",
+        "from": "Silver Waterfall",
+        "to": "O Quy Ho Pass",
+        "drive": "15-20 דקות",
+        "stay": "שעה",
+        "cost": 0.0,
+        "what": "O Quy Ho Pass / Heaven Gate - תצפיות מהדרמטיות באזור על רכס Hoang Lien Son",
+        "notes": "בערפל כבד: לקצר ולחזור לסאפה"
+      },
+      {
+        "time": "16:30",
+        "from": "O Quy Ho",
+        "to": "Hotel",
+        "drive": "30-40 דקות",
+        "stay": "2-3 שעות",
+        "cost": 0.0,
+        "what": "חזרה למלון. ערב אחרון בכיכר סאפה והכנסייה",
+        "notes": ""
+      }
+    ],
+    "maps": [
+      {
+        "label": "Google Maps - Fansipan וכביש הנוף",
+        "url": "https://www.google.com/maps/dir/?api=1&origin=Silk+Path+Grand+Sapa+Resort+%26+Spa%2C+Sa+Pa%2C+Vietnam&destination=Silk+Path+Grand+Sapa+Resort+%26+Spa%2C+Sa+Pa%2C+Vietnam&travelmode=driving&waypoints=Sun+World+Fansipan+Legend%2C+Sa+Pa%2C+Vietnam|Silver+Waterfall%2C+Sa+Pa%2C+Vietnam|O+Quy+Ho+Pass%2C+Sa+Pa%2C+Vietnam"
+      }
+    ],
+    "costs": {
+      "guide": 105.0,
+      "attr": 212.0,
+      "without_hotel": 317.0,
+      "hotel_night": 271.70176,
+      "total": 588.7017599999999
+    },
+    "route": [
+      {
+        "name": "Silk Path Grand Sapa",
+        "lat": 22.3367,
+        "lon": 103.84
+      },
+      {
+        "name": "Fansipan Legend",
+        "lat": 22.333,
+        "lon": 103.829
+      },
+      {
+        "name": "Silver Waterfall",
+        "lat": 22.405,
+        "lon": 103.774
+      },
+      {
+        "name": "O Quy Ho Pass",
+        "lat": 22.407,
+        "lon": 103.76
+      },
+      {
+        "name": "Silk Path Grand Sapa",
+        "lat": 22.3367,
+        "lon": 103.84
+      }
+    ]
+  },
+  {
+    "date": "12.03.2027",
+    "weekday": "יום שישי",
+    "title": "יום מעבר ארוך מסאפה לטאם קוק",
+    "hotel": "Tam Coc Peaceful Nature",
+    "guide": "ללא מדריך | Deluxe MPV / לימוזינה Sapa → Tam Coc | עלות משוערת לשירות: $290 ל-4",
+    "guide_cost": 290.0,
+    "items": [
+      {
+        "time": "07:30",
+        "from": "-",
+        "to": "ארוחת בוקר וצק-אאוט",
+        "drive": "-",
+        "stay": "שעה",
+        "cost": 290.0,
+        "what": "ארוחת בוקר וצק-אאוט",
+        "notes": ""
+      },
+      {
+        "time": "08:30",
+        "from": "Silk Path Grand Sapa",
+        "to": "Tam Coc Peaceful Nature",
+        "drive": "7-8 שעות",
+        "stay": "7-8 שעות",
+        "cost": 0.0,
+        "what": "יציאה ברכב פרטי/לימוזינה לטאם קוק. שתי עצירות שירות וקפה בלבד",
+        "notes": "יום מעבר גם בגשם; לנסוע בזהירות"
+      },
+      {
+        "time": "13:00 בערך",
+        "from": "-",
+        "to": "על הדרך",
+        "drive": "-",
+        "stay": "שעה",
+        "cost": 0.0,
+        "what": "ארוחת צהריים בדרך",
+        "notes": ""
+      },
+      {
+        "time": "16:30-17:30",
+        "from": "-",
+        "to": "הגעה, צק-אין, בריכה ושקיעה בין הרי הקארסט",
+        "drive": "- ",
+        "stay": "ערב",
+        "cost": 0.0,
+        "what": "הגעה, צק-אין, בריכה ושקיעה בין הרי הקארסט",
+        "notes": "בגשם: ספא/מנוחה במלון"
+      }
+    ],
+    "maps": [
+      {
+        "label": "Google Maps - Sapa → Tam Coc",
+        "url": "https://www.google.com/maps/dir/?api=1&origin=Silk+Path+Grand+Sapa+Resort+%26+Spa%2C+Sa+Pa%2C+Vietnam&destination=Tam+Coc+Peaceful+Nature%2C+Ninh+Binh%2C+Vietnam&travelmode=driving"
+      }
+    ],
+    "costs": {
+      "guide": 290.0,
+      "attr": 0.0,
+      "without_hotel": 290.0,
+      "hotel_night": 176.37458,
+      "total": 466.37458000000004
+    },
+    "route": [
+      {
+        "name": "Silk Path Grand Sapa",
+        "lat": 22.3367,
+        "lon": 103.84
+      },
+      {
+        "name": "Tam Coc Peaceful Nature",
+        "lat": 20.2145,
+        "lon": 105.936
+      }
+    ]
+  },
+  {
+    "date": "13.03.2027",
+    "weekday": "יום שבת",
+    "title": "Trang An ונופי הקארסט",
+    "hotel": "Tam Coc Peaceful Nature",
+    "guide": "ללא מדריך | DCar/Minivan פרטי ליום | עלות משוערת לשירות: $70 ל-4",
+    "guide_cost": 70.0,
+    "items": [
+      {
+        "time": "08:30",
+        "from": "Hotel",
+        "to": "Trang An",
+        "drive": "20-30 דקות",
+        "stay": "30 דקות",
+        "cost": 70.0,
+        "what": "יציאה מוקדמת ל-Trang An כדי להקדים קבוצות",
+        "notes": "בגשם כבד: לדחות שייט ולעבור ל-Bich Dong/בתי קפה"
+      },
+      {
+        "time": "09:00-12:00",
+        "from": "-",
+        "to": "Trang An",
+        "drive": "- ",
+        "stay": "2.5-3 שעות",
+        "cost": 46.0,
+        "what": "שייט Trang An - נהרות, מערות, צוקים ומקדשים קטנים. ישיבה ממושכת, כמעט ללא הליכה",
+        "notes": "גשם קל יכול להיות יפה; בגשם כבד לא לצאת"
+      },
+      {
+        "time": "12:30-14:30",
+        "from": "Trang An",
+        "to": "Hotel",
+        "drive": "20-30 דקות",
+        "stay": "2 שעות",
+        "cost": 0.0,
+        "what": "ארוחת צהריים ומנוחה במלון",
+        "notes": ""
+      },
+      {
+        "time": "16:00-17:30",
+        "from": "Hotel",
+        "to": "Bich Dong -> Hotel",
+        "drive": "10-20 דקות",
+        "stay": "1.5 שעות",
+        "cost": 0.0,
+        "what": "Bich Dong Pagoda והכבישים הכפריים סביב השדות - ביקור קצר, בלי להאריך בעליות",
+        "notes": "בגשם: מתאים לביקור קצר"
+      }
+    ],
+    "maps": [
+      {
+        "label": "Google Maps - Trang An + Bich Dong",
+        "url": "https://www.google.com/maps/dir/?api=1&origin=Tam+Coc+Peaceful+Nature%2C+Ninh+Binh%2C+Vietnam&destination=Tam+Coc+Peaceful+Nature%2C+Ninh+Binh%2C+Vietnam&travelmode=driving&waypoints=Trang+An+Landscape+Complex%2C+Ninh+Binh%2C+Vietnam|Bich+Dong+Pagoda%2C+Ninh+Binh%2C+Vietnam"
+      }
+    ],
+    "costs": {
+      "guide": 70.0,
+      "attr": 46.0,
+      "without_hotel": 116.0,
+      "hotel_night": 176.37458,
+      "total": 292.37458000000004
+    },
+    "route": [
+      {
+        "name": "Tam Coc Peaceful Nature",
+        "lat": 20.2145,
+        "lon": 105.936
+      },
+      {
+        "name": "Trang An",
+        "lat": 20.2521,
+        "lon": 105.894
+      },
+      {
+        "name": "Bich Dong Pagoda",
+        "lat": 20.2067,
+        "lon": 105.912
+      },
+      {
+        "name": "Tam Coc Peaceful Nature",
+        "lat": 20.2145,
+        "lon": 105.936
+      }
+    ]
+  },
+  {
+    "date": "14.03.2027",
+    "weekday": "יום ראשון",
+    "title": "Van Long ושקיעה ב-Hang Mua",
+    "hotel": "Tam Coc Peaceful Nature",
+    "guide": "ללא מדריך | DCar/Minivan פרטי ליום | עלות משוערת לשירות: $70 ל-4",
+    "guide_cost": 70.0,
+    "items": [
+      {
+        "time": "09:00",
+        "from": "Hotel",
+        "to": "Van Long",
+        "drive": "35-45 דקות",
+        "stay": "45 דקות",
+        "cost": 70.0,
+        "what": "יציאה לשמורת Van Long",
+        "notes": "בגשם כבד: Bich Dong/בתי קפה/מלון"
+      },
+      {
+        "time": "10:00-11:30",
+        "from": "-",
+        "to": "Van Long",
+        "drive": "- ",
+        "stay": "1.5 שעות",
+        "cost": 15.0,
+        "what": "שייט שקט ב-Van Long - מים חלקים, מצוקים, ציפורים ונוף פחות עמוס מתיירים",
+        "notes": "אם יש רוח/גשם חזק: לוותר על השייט"
+      },
+      {
+        "time": "12:30-15:30",
+        "from": "Van Long",
+        "to": "Hotel",
+        "drive": "35-45 דקות",
+        "stay": "3 שעות",
+        "cost": 0.0,
+        "what": "ארוחת צהריים ומנוחה במלון",
+        "notes": ""
+      },
+      {
+        "time": "16:15-18:15",
+        "from": "Hotel",
+        "to": "Mua Cave -> Hotel",
+        "drive": "15-20 דקות",
+        "stay": "2 שעות",
+        "cost": 15.0,
+        "what": "Hang Mua בשעת שקיעה. עבורכם: הגנים, שדות הלוטוס והאזור התחתון; לא חייבים לעלות מאות מדרגות לפסגה",
+        "notes": "אם רטוב/חלק: לא לטפס"
+      }
+    ],
+    "maps": [
+      {
+        "label": "Google Maps - Van Long + Hang Mua",
+        "url": "https://www.google.com/maps/dir/?api=1&origin=Tam+Coc+Peaceful+Nature%2C+Ninh+Binh%2C+Vietnam&destination=Tam+Coc+Peaceful+Nature%2C+Ninh+Binh%2C+Vietnam&travelmode=driving&waypoints=Van+Long+Wetland+Nature+Reserve%2C+Ninh+Binh%2C+Vietnam|Mua+Cave%2C+Ninh+Binh%2C+Vietnam"
+      }
+    ],
+    "costs": {
+      "guide": 70.0,
+      "attr": 30.0,
+      "without_hotel": 100.0,
+      "hotel_night": 176.37458,
+      "total": 276.37458000000004
+    },
+    "route": [
+      {
+        "name": "Tam Coc Peaceful Nature",
+        "lat": 20.2145,
+        "lon": 105.936
+      },
+      {
+        "name": "Van Long",
+        "lat": 20.365,
+        "lon": 105.856
+      },
+      {
+        "name": "Hang Mua",
+        "lat": 20.2304,
+        "lon": 105.935
+      },
+      {
+        "name": "Tam Coc Peaceful Nature",
+        "lat": 20.2145,
+        "lon": 105.936
+      }
+    ]
+  },
+  {
+    "date": "15.03.2027",
+    "weekday": "יום שני",
+    "title": "טאם קוק לקרוז בהלונג ביי",
+    "hotel": "Tulip Cruise by HAG",
+    "guide": "ללא מדריך | DCar/Minivan Tam Coc → Ha Long | עלות משוערת לשירות: $130 ל-4",
+    "guide_cost": 130.0,
+    "items": [
+      {
+        "time": "08:00-08:30",
+        "from": "Tam Coc Peaceful Nature",
+        "to": "Ha Long International Cruise Port",
+        "drive": "3-3.5 שעות",
+        "stay": "3-3.5 שעות",
+        "cost": 130.0,
+        "what": "צק-אאוט ויציאה למרינה",
+        "notes": "אותו מעבר; לעקוב אחרי הנחיות חברת הקרוז"
+      },
+      {
+        "time": "11:30-12:30",
+        "from": "מרינה",
+        "to": "ספינה",
+        "drive": "-",
+        "stay": "שעה",
+        "cost": 0.0,
+        "what": "רישום ועלייה ל-Tulip Cruise by HAG",
+        "notes": ""
+      },
+      {
+        "time": "12:30-17:30",
+        "from": "-",
+        "to": "ארוחת צהריים ושייט בין איי הקארסט; מערה/קיאקים לפי תכנית הספ",
+        "drive": "- ",
+        "stay": "5 שעות",
+        "cost": 0.0,
+        "what": "ארוחת צהריים ושייט בין איי הקארסט; מערה/קיאקים לפי תכנית הספינה",
+        "notes": "הפעילות נקבעת לפי מזג האוויר והחברה"
+      },
+      {
+        "time": "17:30-ערב",
+        "from": "-",
+        "to": "שקיעה על הסיפון, ארוחת ערב ולינה בספינה",
+        "drive": "- ",
+        "stay": "ערב",
+        "cost": 0.0,
+        "what": "שקיעה על הסיפון, ארוחת ערב ולינה בספינה",
+        "notes": "פעילות פנימית אם מזג האוויר גרוע"
+      }
+    ],
+    "maps": [
+      {
+        "label": "Google Maps - Tam Coc → Ha Long",
+        "url": "https://www.google.com/maps/dir/?api=1&origin=Tam+Coc+Peaceful+Nature%2C+Ninh+Binh%2C+Vietnam&destination=Ha+Long+International+Cruise+Port%2C+Ha+Long%2C+Vietnam&travelmode=driving"
+      }
+    ],
+    "costs": {
+      "guide": 130.0,
+      "attr": 0.0,
+      "without_hotel": 130.0,
+      "hotel_night": 735.2157000000001,
+      "total": 865.2157000000001
+    },
+    "route": [
+      {
+        "name": "Tam Coc Peaceful Nature",
+        "lat": 20.2145,
+        "lon": 105.936
+      },
+      {
+        "name": "Ha Long Cruise Port",
+        "lat": 20.95,
+        "lon": 107.059
+      }
+    ]
+  },
+  {
+    "date": "16.03.2027",
+    "weekday": "יום שלישי",
+    "title": "סיום הקרוז ולילה בהאי פונג",
+    "hotel": "KOVIE HOTEL",
+    "guide": "ללא מדריך | לימוזינה Ha Long → Hai Phong | עלות משוערת לשירות: $60 ל-4",
+    "guide_cost": 60.0,
+    "items": [
+      {
+        "time": "06:30-10:30",
+        "from": "-",
+        "to": "זריחה/Tai Chi, ארוחת בוקר ופעילות קצרה אחרונה לפי תכנית הקרו",
+        "drive": "-",
+        "stay": "4 שעות",
+        "cost": 60.0,
+        "what": "זריחה/Tai Chi, ארוחת בוקר ופעילות קצרה אחרונה לפי תכנית הקרוז",
+        "notes": ""
+      },
+      {
+        "time": "10:30-11:30",
+        "from": "-",
+        "to": "ירידה מהספינה והתארגנות",
+        "drive": "-",
+        "stay": "שעה",
+        "cost": 0.0,
+        "what": "ירידה מהספינה והתארגנות",
+        "notes": ""
+      },
+      {
+        "time": "12:00-13:30",
+        "from": "Ha Long Cruise Port",
+        "to": "KOVIE HOTEL",
+        "drive": "1-1.5 שעות",
+        "stay": "1-1.5 שעות",
+        "cost": 0.0,
+        "what": "הסעה פרטית להאי פונג וצק-אין ב-KOVIE HOTEL",
+        "notes": "יום Buffer - לא להוסיף נסיעות ארוכות"
+      },
+      {
+        "time": "16:00-ערב",
+        "from": "-",
+        "to": "מנוחה, ספא/מסאז וארוחת ערב בעיר. לישון מוקדם לפני הטיסה",
+        "drive": "- ",
+        "stay": "ערב",
+        "cost": 0.0,
+        "what": "מנוחה, ספא/מסאז וארוחת ערב בעיר. לישון מוקדם לפני הטיסה",
+        "notes": "בגשם: ללא שינוי"
+      }
+    ],
+    "maps": [
+      {
+        "label": "Google Maps - Ha Long → KOVIE HOTEL",
+        "url": "https://www.google.com/maps/dir/?api=1&origin=Ha+Long+International+Cruise+Port%2C+Ha+Long%2C+Vietnam&destination=KOVIE+HOTEL%2C+9+Le+Hong+Phong%2C+Hai+Phong%2C+Vietnam&travelmode=driving"
+      }
+    ],
+    "costs": {
+      "guide": 60.0,
+      "attr": 0.0,
+      "without_hotel": 60.0,
+      "hotel_night": 137.78058000000001,
+      "total": 197.78058000000001
+    },
+    "route": [
+      {
+        "name": "Ha Long Cruise Port",
+        "lat": 20.95,
+        "lon": 107.059
+      },
+      {
+        "name": "KOVIE HOTEL",
+        "lat": 20.844,
+        "lon": 106.688
+      }
+    ]
+  },
+  {
+    "date": "17.03.2027",
+    "weekday": "יום רביעי",
+    "title": "טיסת פנים להדה נאנג",
+    "hotel": "M Hotel Danang",
+    "guide": "ללא מדריך | 2 הסעות פרטיות לשדות התעופה | עלות משוערת לשירות: $30 ל-4",
+    "guide_cost": 30.0,
+    "items": [
+      {
+        "time": "08:30",
+        "from": "-",
+        "to": "ארוחת בוקר וצק-אאוט",
+        "drive": "-",
+        "stay": "שעה",
+        "cost": 30.0,
+        "what": "ארוחת בוקר וצק-אאוט",
+        "notes": ""
+      },
+      {
+        "time": "09:00 בערך",
+        "from": "KOVIE HOTEL",
+        "to": "HPH Airport",
+        "drive": "20-30 דקות",
+        "stay": "20-30 דקות",
+        "cost": 0.0,
+        "what": "יציאה ל-Cat Bi Airport. להגיע לפחות 90 דקות לפני הטיסה",
+        "notes": "יום טיסה - ללא אטרקציות מחייבות"
+      },
+      {
+        "time": "11:15-12:35",
+        "from": "-",
+        "to": "טיסה VN1671",
+        "drive": "1:20 שעות",
+        "stay": "1:20 שעות",
+        "cost": 0.0,
+        "what": "טיסה VN1671: Hai Phong HPH -> Da Nang DAD",
+        "notes": ""
+      },
+      {
+        "time": "13:15-14:00",
+        "from": "DAD Airport",
+        "to": "M Hotel Danang",
+        "drive": "15-25 דקות",
+        "stay": "45 דקות",
+        "cost": 0.0,
+        "what": "איסוף מזוודות והסעה ל-M Hotel Danang",
+        "notes": "הסעה מהשדה"
+      },
+      {
+        "time": "17:30-19:00",
+        "from": "-",
+        "to": "מהמלון ברגל/Grab קצר",
+        "drive": "5-15 דקות",
+        "stay": "1.5 שעות",
+        "cost": 0.0,
+        "what": "My Khe Beach בשקיעה וטיילת. יום רגוע בלבד",
+        "notes": "בגשם: ספא/קפה במלון"
+      }
+    ],
+    "maps": [
+      {
+        "label": "מפת בוקר - KOVIE → HPH",
+        "url": "https://www.google.com/maps/dir/?api=1&origin=KOVIE+HOTEL%2C+9+Le+Hong+Phong%2C+Hai+Phong%2C+Vietnam&destination=Cat+Bi+International+Airport%2C+Hai+Phong%2C+Vietnam&travelmode=driving"
+      },
+      {
+        "label": "מפת הגעה - DAD → M Hotel",
+        "url": "https://www.google.com/maps/dir/?api=1&origin=Da+Nang+International+Airport%2C+Vietnam&destination=M+Hotel+Danang%2C+286+Vo+Nguyen+Giap%2C+Da+Nang%2C+Vietnam&travelmode=driving"
+      }
+    ],
+    "costs": {
+      "guide": 30.0,
+      "attr": 0.0,
+      "without_hotel": 30.0,
+      "hotel_night": 257.61495,
+      "total": 287.61495
+    },
+    "route": [
+      {
+        "name": "KOVIE HOTEL",
+        "lat": 20.844,
+        "lon": 106.688
+      },
+      {
+        "name": "Cat Bi Airport",
+        "lat": 20.8194,
+        "lon": 106.7249
+      },
+      {
+        "name": "Da Nang Airport",
+        "lat": 16.0439,
+        "lon": 108.1994
+      },
+      {
+        "name": "M Hotel Danang",
+        "lat": 16.054,
+        "lon": 108.244
+      }
+    ]
+  },
+  {
+    "date": "18.03.2027",
+    "weekday": "יום חמישי",
+    "title": "Ba Na Hills וה-Golden Bridge",
+    "hotel": "M Hotel Danang",
+    "guide": "ללא מדריך | נהג פרטי 7 מושבים הלוך-חזור | עלות משוערת לשירות: $31 ל-4",
+    "guide_cost": 31.0,
+    "items": [
+      {
+        "time": "07:30",
+        "from": "M Hotel Danang",
+        "to": "Ba Na Hills",
+        "drive": "45-60 דקות",
+        "stay": "45-60 דקות",
+        "cost": 31.0,
+        "what": "יציאה מוקדמת כדי להקדים עומסים",
+        "notes": "אם ערפל כבד/גשם: להחליף עם 20.3 לפי התחזית"
+      },
+      {
+        "time": "08:30-10:30",
+        "from": "-",
+        "to": "בתוך Ba Na Hills",
+        "drive": "רכבלים",
+        "stay": "2 שעות",
+        "cost": 153.0,
+        "what": "רכבל ו-Golden Bridge - להגיע מוקדם לצילומים",
+        "notes": "אם ראות אפס: לא כדאי לעלות"
+      },
+      {
+        "time": "10:30-12:30",
+        "from": "-",
+        "to": "בתוך האתר",
+        "drive": "-",
+        "stay": "2 שעות",
+        "cost": 0.0,
+        "what": "French Village ותצפיות",
+        "notes": ""
+      },
+      {
+        "time": "12:30-14:00",
+        "from": "-",
+        "to": "ארוחת צהריים ומנוחה",
+        "drive": "-",
+        "stay": "1.5 שעות",
+        "cost": 0.0,
+        "what": "ארוחת צהריים ומנוחה",
+        "notes": ""
+      },
+      {
+        "time": "14:00-16:00",
+        "from": "-",
+        "to": "Fantasy Park / Alpine Coaster לפי התורים והעניין",
+        "drive": "-",
+        "stay": "2 שעות",
+        "cost": 0.0,
+        "what": "Fantasy Park / Alpine Coaster לפי התורים והעניין",
+        "notes": ""
+      },
+      {
+        "time": "16:00-17:30",
+        "from": "Ba Na Hills",
+        "to": "M Hotel Danang",
+        "drive": "45-60 דקות",
+        "stay": "1.5 שעות",
+        "cost": 153.0,
+        "what": "ירידה ברכבל וחזרה למלון",
+        "notes": ""
+      }
+    ],
+    "maps": [
+      {
+        "label": "Google Maps - Ba Na Hills",
+        "url": "https://www.google.com/maps/dir/?api=1&origin=M+Hotel+Danang%2C+286+Vo+Nguyen+Giap%2C+Da+Nang%2C+Vietnam&destination=M+Hotel+Danang%2C+286+Vo+Nguyen+Giap%2C+Da+Nang%2C+Vietnam&travelmode=driving&waypoints=Sun+World+Ba+Na+Hills%2C+Da+Nang%2C+Vietnam"
+      }
+    ],
+    "costs": {
+      "guide": 31.0,
+      "attr": 306.0,
+      "without_hotel": 337.0,
+      "hotel_night": 257.61495,
+      "total": 594.61495
+    },
+    "route": [
+      {
+        "name": "M Hotel Danang",
+        "lat": 16.054,
+        "lon": 108.244
+      },
+      {
+        "name": "Ba Na Hills",
+        "lat": 15.997,
+        "lon": 107.996
+      },
+      {
+        "name": "M Hotel Danang",
+        "lat": 16.054,
+        "lon": 108.244
+      }
+    ]
+  },
+  {
+    "date": "19.03.2027",
+    "weekday": "יום שישי",
+    "title": "Marble Mountains, סירות קוקוס והוי אן",
+    "hotel": "M Hotel Danang",
+    "guide": "מדריך פרטי + נהג - מומלץ מאוד | עלות משוערת לשירות: $212 ל-4",
+    "guide_cost": 212.0,
+    "items": [
+      {
+        "time": "09:00",
+        "from": "M Hotel",
+        "to": "Marble Mountains",
+        "drive": "20-30 דקות",
+        "stay": "30 דקות",
+        "cost": 212.0,
+        "what": "יציאה עם מדריך פרטי ונהג ליום מלא",
+        "notes": "בגשם כבד: לקצר Marble Mountains ולהתמקד בהוי אן/סדנת בישול"
+      },
+      {
+        "time": "09:30-10:45",
+        "from": "-",
+        "to": "Marble Mountains",
+        "drive": "- ",
+        "stay": "1-1.25 שעות",
+        "cost": 0.0,
+        "what": "Marble Mountains - להשתמש במעלית, נקודות תצפית ומערה אחת; לא לעשות את כל המדרגות",
+        "notes": "אם רטוב וחלק: ביקור קצר בלבד"
+      },
+      {
+        "time": "11:30-12:30",
+        "from": "Marble Mountains",
+        "to": "Cam Thanh",
+        "drive": "35-45 דקות",
+        "stay": "שעה",
+        "cost": 15.0,
+        "what": "Cam Thanh Coconut Village - סירת סלסלה קצרה בין דקלי המים",
+        "notes": "בגשם כבד: לוותר"
+      },
+      {
+        "time": "13:00-14:00",
+        "from": "Cam Thanh",
+        "to": "Hoi An",
+        "drive": "15-20 דקות",
+        "stay": "שעה",
+        "cost": 0.0,
+        "what": "ארוחת צהריים",
+        "notes": ""
+      },
+      {
+        "time": "16:00-19:30",
+        "from": "-",
+        "to": "Hoi An Ancient Town",
+        "drive": "ברגל קצר + הפסקות",
+        "stay": "3.5 שעות",
+        "cost": 0.0,
+        "what": "Hoi An Ancient Town: הגשר היפני, בתי סוחרים, הרחובות הצבעוניים, הנהר, עששיות ושוק הלילה",
+        "notes": "הוי אן יפה גם בגשם קל"
+      },
+      {
+        "time": "20:00-21:30",
+        "from": "Hoi An",
+        "to": "M Hotel Danang",
+        "drive": "45-60 דקות",
+        "stay": "1.5 שעות",
+        "cost": 0.0,
+        "what": "ארוחת ערב וחזרה לדה נאנג",
+        "notes": ""
+      }
+    ],
+    "maps": [
+      {
+        "label": "Google Maps - Marble Mountains + Coconut + Hoi An",
+        "url": "https://www.google.com/maps/dir/?api=1&origin=M+Hotel+Danang%2C+286+Vo+Nguyen+Giap%2C+Da+Nang%2C+Vietnam&destination=M+Hotel+Danang%2C+286+Vo+Nguyen+Giap%2C+Da+Nang%2C+Vietnam&travelmode=driving&waypoints=Marble+Mountains%2C+Da+Nang%2C+Vietnam|Cam+Thanh+Coconut+Village%2C+Hoi+An%2C+Vietnam|Hoi+An+Ancient+Town%2C+Vietnam"
+      }
+    ],
+    "costs": {
+      "guide": 212.0,
+      "attr": 15.0,
+      "without_hotel": 227.0,
+      "hotel_night": 257.61495,
+      "total": 484.61495
+    },
+    "route": [
+      {
+        "name": "M Hotel Danang",
+        "lat": 16.054,
+        "lon": 108.244
+      },
+      {
+        "name": "Marble Mountains",
+        "lat": 16.0036,
+        "lon": 108.264
+      },
+      {
+        "name": "Cam Thanh Coconut Village",
+        "lat": 15.881,
+        "lon": 108.363
+      },
+      {
+        "name": "Hoi An Ancient Town",
+        "lat": 15.8801,
+        "lon": 108.338
+      },
+      {
+        "name": "M Hotel Danang",
+        "lat": 16.054,
+        "lon": 108.244
+      }
+    ]
+  },
+  {
+    "date": "20.03.2027",
+    "weekday": "יום שבת",
+    "title": "Hai Van Pass, Lang Co ו-Lap An Lagoon",
+    "hotel": "M Hotel Danang",
+    "guide": "ללא מדריך | נהג פרטי מנוסה ליום נוף | עלות משוערת לשירות: $89 ל-4",
+    "guide_cost": 89.0,
+    "items": [
+      {
+        "time": "08:30",
+        "from": "M Hotel",
+        "to": "Hai Van Pass",
+        "drive": "45-60 דקות",
+        "stay": "שעה",
+        "cost": 89.0,
+        "what": "יציאה צפונה עם נהג פרטי מנוסה",
+        "notes": "בגשם/ערפל כבד: להחליף עם יום עיר/ספא"
+      },
+      {
+        "time": "09:30-10:30",
+        "from": "-",
+        "to": "Hai Van Pass",
+        "drive": "- ",
+        "stay": "שעה",
+        "cost": 0.0,
+        "what": "Hai Van Pass - מספר עצירות תצפית על הים, ההרים והמסילה",
+        "notes": "אם אין ראות: לדלג"
+      },
+      {
+        "time": "11:00-12:00",
+        "from": "Hai Van",
+        "to": "Lang Co",
+        "drive": "30 דקות",
+        "stay": "שעה",
+        "cost": 0.0,
+        "what": "Lang Co Beach - תצפית וקפה ליד המפרץ",
+        "notes": ""
+      },
+      {
+        "time": "12:30-14:00",
+        "from": "Lang Co",
+        "to": "Lap An Lagoon",
+        "drive": "15 דקות",
+        "stay": "1.5 שעות",
+        "cost": 0.0,
+        "what": "ארוחת צהריים מול Lap An Lagoon",
+        "notes": ""
+      },
+      {
+        "time": "14:00-15:00",
+        "from": "-",
+        "to": "Lap An Lagoon",
+        "drive": "-",
+        "stay": "שעה",
+        "cost": 0.0,
+        "what": "Lap An Lagoon - מים רדודים, הרים ונקודות צילום",
+        "notes": ""
+      },
+      {
+        "time": "16:00-17:00",
+        "from": "Lap An",
+        "to": "Linh Ung",
+        "drive": "1.5 שעות",
+        "stay": "שעה",
+        "cost": 0.0,
+        "what": "Linh Ung Pagoda ב-Son Tra - תצפית רחבה על דה נאנג והים",
+        "notes": "בגשם חזק: לוותר"
+      },
+      {
+        "time": "17:30",
+        "from": "Linh Ung",
+        "to": "Hotel",
+        "drive": "25-35 דקות",
+        "stay": "ערב",
+        "cost": 0.0,
+        "what": "חזרה למלון וערב אחרון רגוע בדה נאנג",
+        "notes": ""
+      }
+    ],
+    "maps": [
+      {
+        "label": "Google Maps - Hai Van + Lang Co + Lap An",
+        "url": "https://www.google.com/maps/dir/?api=1&origin=M+Hotel+Danang%2C+286+Vo+Nguyen+Giap%2C+Da+Nang%2C+Vietnam&destination=M+Hotel+Danang%2C+286+Vo+Nguyen+Giap%2C+Da+Nang%2C+Vietnam&travelmode=driving&waypoints=Hai+Van+Pass%2C+Vietnam|Lang+Co+Beach%2C+Hue%2C+Vietnam|Lap+An+Lagoon%2C+Hue%2C+Vietnam|Linh+Ung+Pagoda%2C+Son+Tra%2C+Da+Nang%2C+Vietnam"
+      }
+    ],
+    "costs": {
+      "guide": 89.0,
+      "attr": 0.0,
+      "without_hotel": 89.0,
+      "hotel_night": 257.61495,
+      "total": 346.61495
+    },
+    "route": [
+      {
+        "name": "M Hotel Danang",
+        "lat": 16.054,
+        "lon": 108.244
+      },
+      {
+        "name": "Hai Van Pass",
+        "lat": 16.195,
+        "lon": 108.133
+      },
+      {
+        "name": "Lang Co Beach",
+        "lat": 16.252,
+        "lon": 108.075
+      },
+      {
+        "name": "Lap An Lagoon",
+        "lat": 16.249,
+        "lon": 108.089
+      },
+      {
+        "name": "Linh Ung Pagoda",
+        "lat": 16.101,
+        "lon": 108.277
+      },
+      {
+        "name": "M Hotel Danang",
+        "lat": 16.054,
+        "lon": 108.244
+      }
+    ]
+  },
+  {
+    "date": "21.03.2027",
+    "weekday": "יום ראשון",
+    "title": "טיסה לבנגקוק והעברה לפאטיה",
+    "hotel": "LK Emerald Beach - SHA Extra Plus",
+    "guide": "ללא מדריך | הסעה DAD + SUV פרטי BKK → Pattaya | עלות משוערת לשירות: $76 ל-4",
+    "guide_cost": 76.0,
+    "items": [
+      {
+        "time": "בוקר",
+        "from": "-",
+        "to": "ארוחת בוקר רגועה וצק-אאוט. לא לקבוע אטרקציות",
+        "drive": "-",
+        "stay": "בוקר",
+        "cost": 76.0,
+        "what": "ארוחת בוקר רגועה וצק-אאוט. לא לקבוע אטרקציות",
+        "notes": ""
+      },
+      {
+        "time": "12:00 בערך",
+        "from": "M Hotel",
+        "to": "DAD Airport",
+        "drive": "20-30 דקות",
+        "stay": "20-30 דקות",
+        "cost": 0.0,
+        "what": "יציאה לשדה DAD לטיסה הבינלאומית",
+        "notes": "הסעה לשדה"
+      },
+      {
+        "time": "15:15-17:00",
+        "from": "-",
+        "to": "טיסה VN627",
+        "drive": "1:45 שעות",
+        "stay": "1:45 שעות",
+        "cost": 0.0,
+        "what": "טיסה VN627: Da Nang -> Bangkok Suvarnabhumi",
+        "notes": ""
+      },
+      {
+        "time": "18:00 בערך",
+        "from": "BKK Airport",
+        "to": "LK Emerald Beach",
+        "drive": "1:45-2:30 שעות",
+        "stay": "1:45-2:30 שעות",
+        "cost": 0.0,
+        "what": "איסוף ונסיעה פרטית לפאטיה",
+        "notes": "יום מעבר גם בגשם"
+      },
+      {
+        "time": "ערב",
+        "from": "-",
+        "to": "צק-אין וארוחת ערב קלה. לא להוסיף פעילות",
+        "drive": "- ",
+        "stay": "ערב",
+        "cost": 0.0,
+        "what": "צק-אין וארוחת ערב קלה. לא להוסיף פעילות",
+        "notes": ""
+      }
+    ],
+    "maps": [
+      {
+        "label": "מפת בוקר - M Hotel → DAD",
+        "url": "https://www.google.com/maps/dir/?api=1&origin=M+Hotel+Danang%2C+286+Vo+Nguyen+Giap%2C+Da+Nang%2C+Vietnam&destination=Da+Nang+International+Airport%2C+Vietnam&travelmode=driving"
+      },
+      {
+        "label": "מפת ערב - BKK → Pattaya",
+        "url": "https://www.google.com/maps/dir/?api=1&origin=Suvarnabhumi+Airport%2C+Bangkok%2C+Thailand&destination=LK+Emerald+Beach+Pattaya%2C+Thailand&travelmode=driving"
+      }
+    ],
+    "costs": {
+      "guide": 76.0,
+      "attr": 0.0,
+      "without_hotel": 76.0,
+      "hotel_night": 398.86899,
+      "total": 474.86899
+    },
+    "route": [
+      {
+        "name": "M Hotel Danang",
+        "lat": 16.054,
+        "lon": 108.244
+      },
+      {
+        "name": "Da Nang Airport",
+        "lat": 16.0439,
+        "lon": 108.1994
+      },
+      {
+        "name": "Suvarnabhumi Airport",
+        "lat": 13.69,
+        "lon": 100.7501
+      },
+      {
+        "name": "LK Emerald Beach Pattaya",
+        "lat": 12.962,
+        "lon": 100.886
+      }
+    ]
+  },
+  {
+    "date": "22.03.2027",
+    "weekday": "יום שני",
+    "title": "פאטיה רגועה - אדריכלות, נוף ומנוחה",
+    "hotel": "LK Emerald Beach - SHA Extra Plus",
+    "guide": "ללא מדריך | נהג/Grab לחצי יום | עלות משוערת לשירות: $35 ל-4",
+    "guide_cost": 35.0,
+    "items": [
+      {
+        "time": "09:30-11:30",
+        "from": "Hotel",
+        "to": "Sanctuary of Truth",
+        "drive": "15-20 דקות",
+        "stay": "2 שעות",
+        "cost": 95.0,
+        "what": "Sanctuary of Truth - מבנה עץ עצום ומרשים על הים; זה אתר אדריכלי ולא מוזיאון קלאסי",
+        "notes": "מתאים גם לגשם קל"
+      },
+      {
+        "time": "12:00-15:30",
+        "from": "Sanctuary",
+        "to": "Hotel",
+        "drive": "15-20 דקות",
+        "stay": "3.5 שעות",
+        "cost": 0.0,
+        "what": "ארוחת צהריים, חזרה למלון, בריכה ומנוחה",
+        "notes": ""
+      },
+      {
+        "time": "16:30-17:30",
+        "from": "Hotel",
+        "to": "View Point",
+        "drive": "20-30 דקות",
+        "stay": "שעה",
+        "cost": 0.0,
+        "what": "Pattaya View Point - צילום המפרץ בשעת אור יפה",
+        "notes": "בגשם/ערפל: לדלג"
+      },
+      {
+        "time": "18:00-20:30",
+        "from": "View Point",
+        "to": "Terminal 21 -> Hotel",
+        "drive": "20-30 דקות",
+        "stay": "2.5 שעות",
+        "cost": 0.0,
+        "what": "Terminal 21 וטיילת/ערב חופשי",
+        "notes": "מצוין גם לגשם"
+      }
+    ],
+    "maps": [
+      {
+        "label": "Google Maps - Pattaya",
+        "url": "https://www.google.com/maps/dir/?api=1&origin=LK+Emerald+Beach+Pattaya%2C+Thailand&destination=LK+Emerald+Beach+Pattaya%2C+Thailand&travelmode=driving&waypoints=Sanctuary+of+Truth%2C+Pattaya%2C+Thailand|Pattaya+City+Sign+Viewpoint%2C+Thailand|Terminal+21+Pattaya%2C+Thailand"
+      }
+    ],
+    "costs": {
+      "guide": 35.0,
+      "attr": 60.0,
+      "without_hotel": 95.0,
+      "hotel_night": 398.86899,
+      "total": 493.86899
+    },
+    "route": [
+      {
+        "name": "LK Emerald Beach Pattaya",
+        "lat": 12.962,
+        "lon": 100.886
+      },
+      {
+        "name": "Sanctuary of Truth",
+        "lat": 12.999,
+        "lon": 100.886
+      },
+      {
+        "name": "Pattaya Viewpoint",
+        "lat": 12.925,
+        "lon": 100.868
+      },
+      {
+        "name": "Terminal 21 Pattaya",
+        "lat": 12.948,
+        "lon": 100.889
+      },
+      {
+        "name": "LK Emerald Beach Pattaya",
+        "lat": 12.962,
+        "lon": 100.886
+      }
+    ]
+  },
+  {
+    "date": "23.03.2027",
+    "weekday": "יום שלישי",
+    "title": "מעבר מפאטיה לקו צאנג",
+    "hotel": "Koh Chang Paradise Resort & Spa",
+    "guide": "ללא מדריך | MPV פרטי Door-to-Door + מעבורת | עלות משוערת לשירות: $110 ל-4",
+    "guide_cost": 110.0,
+    "items": [
+      {
+        "time": "07:30",
+        "from": "-",
+        "to": "ארוחת בוקר וצק-אאוט",
+        "drive": "-",
+        "stay": "שעה",
+        "cost": 110.0,
+        "what": "ארוחת בוקר וצק-אאוט",
+        "notes": ""
+      },
+      {
+        "time": "08:30",
+        "from": "Pattaya",
+        "to": "Ao Thammachat Ferry",
+        "drive": "4-5 שעות",
+        "stay": "4-5 שעות",
+        "cost": 0.0,
+        "what": "יציאה ברכב פרטי Door-to-Door לכיוון Trat",
+        "notes": "יום מעבר; אם מזג אוויר קשה לעקוב אחרי מצב המעבורת"
+      },
+      {
+        "time": "13:30-15:00",
+        "from": "Ao Thammachat",
+        "to": "Koh Chang",
+        "drive": "30-45 דקות במעבורת",
+        "stay": "1-1.5 שעות",
+        "cost": 0.0,
+        "what": "המתנה ומעבורת לקו צאנג",
+        "notes": "אם יש עיכובים להשאיר מרווח"
+      },
+      {
+        "time": "16:00-17:00",
+        "from": "Ferry",
+        "to": "Resort",
+        "drive": "30-60 דקות",
+        "stay": "ערב",
+        "cost": 0.0,
+        "what": "הגעה ל-Koh Chang Paradise Resort & Spa, צק-אין ושקיעה",
+        "notes": ""
+      }
+    ],
+    "maps": [
+      {
+        "label": "Google Maps - Pattaya → Koh Chang",
+        "url": "https://www.google.com/maps/dir/?api=1&origin=LK+Emerald+Beach+Pattaya%2C+Thailand&destination=Koh+Chang+Paradise+Resort+%26+Spa%2C+Trat%2C+Thailand&travelmode=driving&waypoints=Ao+Thammachat+Ferry%2C+Trat%2C+Thailand"
+      }
+    ],
+    "costs": {
+      "guide": 110.0,
+      "attr": 0.0,
+      "without_hotel": 110.0,
+      "hotel_night": 300.45429,
+      "total": 410.45429
+    },
+    "route": [
+      {
+        "name": "LK Emerald Beach Pattaya",
+        "lat": 12.962,
+        "lon": 100.886
+      },
+      {
+        "name": "Ao Thammachat Ferry",
+        "lat": 12.181,
+        "lon": 102.3
+      },
+      {
+        "name": "Koh Chang Paradise Resort",
+        "lat": 12.06,
+        "lon": 102.289
+      }
+    ]
+  },
+  {
+    "date": "24.03.2027",
+    "weekday": "יום רביעי",
+    "title": "קו צאנג - החוף המערבי ותצפיות",
+    "hotel": "Koh Chang Paradise Resort & Spa",
+    "guide": "ללא מדריך | נהג מקומי פרטי | עלות משוערת לשירות: $50 ל-4",
+    "guide_cost": 50.0,
+    "items": [
+      {
+        "time": "09:30",
+        "from": "Resort",
+        "to": "Kai Bae Viewpoint",
+        "drive": "30-45 דקות",
+        "stay": "30 דקות",
+        "cost": 50.0,
+        "what": "יציאה עם נהג מקומי לחצי יום/יום",
+        "notes": "בגשם חזק: ריזורט, ספא ובתי קפה"
+      },
+      {
+        "time": "10:15-10:45",
+        "from": "-",
+        "to": "Kai Bae Viewpoint",
+        "drive": "-",
+        "stay": "30 דקות",
+        "cost": 0.0,
+        "what": "Kai Bae Viewpoint - תצפית קלה ונגישה על האיים הקטנים והים",
+        "notes": ""
+      },
+      {
+        "time": "11:00-12:30",
+        "from": "Viewpoint",
+        "to": "Beach",
+        "drive": "10 דקות",
+        "stay": "1.5 שעות",
+        "cost": 0.0,
+        "what": "Kai Bae Beach / חוף יפה בדרך - עצירת רחצה וקפה",
+        "notes": ""
+      },
+      {
+        "time": "13:00-15:30",
+        "from": "Kai Bae",
+        "to": "Bang Bao",
+        "drive": "30-45 דקות",
+        "stay": "2.5 שעות",
+        "cost": 0.0,
+        "what": "Bang Bao Pier וכפר הדייגים - מזח ארוך, ים, חנויות ואווירה מקומית",
+        "notes": ""
+      },
+      {
+        "time": "17:00",
+        "from": "Bang Bao",
+        "to": "Resort",
+        "drive": "45-60 דקות",
+        "stay": "ערב",
+        "cost": 0.0,
+        "what": "חזרה לריזורט לשקיעה",
+        "notes": ""
+      }
+    ],
+    "maps": [
+      {
+        "label": "Google Maps - החוף המערבי בקו צ׳אנג",
+        "url": "https://www.google.com/maps/dir/?api=1&origin=Koh+Chang+Paradise+Resort+%26+Spa%2C+Trat%2C+Thailand&destination=Koh+Chang+Paradise+Resort+%26+Spa%2C+Trat%2C+Thailand&travelmode=driving&waypoints=Kai+Bae+Viewpoint%2C+Koh+Chang%2C+Thailand|Bang+Bao+Pier%2C+Koh+Chang%2C+Thailand"
+      }
+    ],
+    "costs": {
+      "guide": 50.0,
+      "attr": 0.0,
+      "without_hotel": 50.0,
+      "hotel_night": 300.45429,
+      "total": 350.45429
+    },
+    "route": [
+      {
+        "name": "Koh Chang Paradise Resort",
+        "lat": 12.06,
+        "lon": 102.289
+      },
+      {
+        "name": "Kai Bae Viewpoint",
+        "lat": 11.995,
+        "lon": 102.296
+      },
+      {
+        "name": "Bang Bao Pier",
+        "lat": 11.972,
+        "lon": 102.314
+      },
+      {
+        "name": "Koh Chang Paradise Resort",
+        "lat": 12.06,
+        "lon": 102.289
+      }
+    ]
+  },
+  {
+    "date": "25.03.2027",
+    "weekday": "יום חמישי",
+    "title": "שייט איים ושנורקלינג",
+    "hotel": "Koh Chang Paradise Resort & Spa",
+    "guide": "צוות שייט | סירת Speedboat פרטית ל-4 | עלות משוערת לשירות: $287 ל-4",
+    "guide_cost": 287.0,
+    "items": [
+      {
+        "time": "08:30",
+        "from": "Resort",
+        "to": "Bang Bao Pier",
+        "drive": "45-60 דקות",
+        "stay": "45-60 דקות",
+        "cost": 287.0,
+        "what": "איסוף מהריזורט למזח Bang Bao",
+        "notes": "אם הים סוער: לבטל ולעבור ליום ריזורט"
+      },
+      {
+        "time": "09:30-15:30",
+        "from": "-",
+        "to": "שייט בין איים, מפרצים ונקודות שנורקלינג; לבחור מפעיל עם סירה",
+        "drive": "- ",
+        "stay": "6 שעות",
+        "cost": 24.0,
+        "what": "שייט בין איים, מפרצים ונקודות שנורקלינג; לבחור מפעיל עם סירה לא צפופה",
+        "notes": "אם הים לא מתאים: לא לצאת"
+      },
+      {
+        "time": "16:00-17:00",
+        "from": "Bang Bao",
+        "to": "Resort",
+        "drive": "45-60 דקות",
+        "stay": "שעה",
+        "cost": 0.0,
+        "what": "חזרה למזח ולריזורט",
+        "notes": ""
+      }
+    ],
+    "maps": [
+      {
+        "label": "Google Maps - ריזורט → Bang Bao Pier",
+        "url": "https://www.google.com/maps/dir/?api=1&origin=Koh+Chang+Paradise+Resort+%26+Spa%2C+Trat%2C+Thailand&destination=Koh+Chang+Paradise+Resort+%26+Spa%2C+Trat%2C+Thailand&travelmode=driving&waypoints=Bang+Bao+Pier%2C+Koh+Chang%2C+Thailand"
+      }
+    ],
+    "costs": {
+      "guide": 287.0,
+      "attr": 24.0,
+      "without_hotel": 311.0,
+      "hotel_night": 300.45429,
+      "total": 611.45429
+    },
+    "route": [
+      {
+        "name": "Koh Chang Paradise Resort",
+        "lat": 12.06,
+        "lon": 102.289
+      },
+      {
+        "name": "Bang Bao Pier",
+        "lat": 11.972,
+        "lon": 102.314
+      },
+      {
+        "name": "Koh Chang Paradise Resort",
+        "lat": 12.06,
+        "lon": 102.289
+      }
+    ]
+  },
+  {
+    "date": "26.03.2027",
+    "weekday": "יום שישי",
+    "title": "יום ריזורט וטבע קל",
+    "hotel": "Koh Chang Paradise Resort & Spa",
+    "guide": "ללא מדריך | מונית/נהג מקומי קצר | עלות משוערת לשירות: $20 ל-4",
+    "guide_cost": 20.0,
+    "items": [
+      {
+        "time": "09:00-11:00",
+        "from": "-",
+        "to": "בוקר רגוע בחוף ובבריכה",
+        "drive": "-",
+        "stay": "2 שעות",
+        "cost": 20.0,
+        "what": "בוקר רגוע בחוף ובבריכה",
+        "notes": ""
+      },
+      {
+        "time": "11:30-13:00",
+        "from": "Resort",
+        "to": "Klong Plu -> Resort",
+        "drive": "15-25 דקות לכל כיוון",
+        "stay": "1.5 שעות",
+        "cost": 24.0,
+        "what": "Klong Plu Waterfall - רק אם השביל יבש ונוח; הליכה קצרה יחסית אך לא חובה",
+        "notes": "אם רטוב/חלק: לוותר לגמרי"
+      },
+      {
+        "time": "14:00-18:30",
+        "from": "-",
+        "to": "חזרה לריזורט",
+        "drive": "- ",
+        "stay": "4.5 שעות",
+        "cost": 0.0,
+        "what": "חזרה לריזורט: ארוחת צהריים, ספא, בריכה ושקיעה אחרונה באי",
+        "notes": "זהו יום הגשם החלופי הטבעי"
+      }
+    ],
+    "maps": [
+      {
+        "label": "Google Maps - Klong Plu Waterfall",
+        "url": "https://www.google.com/maps/dir/?api=1&origin=Koh+Chang+Paradise+Resort+%26+Spa%2C+Trat%2C+Thailand&destination=Koh+Chang+Paradise+Resort+%26+Spa%2C+Trat%2C+Thailand&travelmode=driving&waypoints=Klong+Plu+Waterfall%2C+Koh+Chang%2C+Thailand"
+      }
+    ],
+    "costs": {
+      "guide": 20.0,
+      "attr": 24.0,
+      "without_hotel": 44.0,
+      "hotel_night": 300.45429,
+      "total": 344.45429
+    },
+    "route": [
+      {
+        "name": "Koh Chang Paradise Resort",
+        "lat": 12.06,
+        "lon": 102.289
+      },
+      {
+        "name": "Klong Plu Waterfall",
+        "lat": 12.057,
+        "lon": 102.307
+      },
+      {
+        "name": "Koh Chang Paradise Resort",
+        "lat": 12.06,
+        "lon": 102.289
+      }
+    ]
+  },
+  {
+    "date": "27.03.2027",
+    "weekday": "יום שבת",
+    "title": "קו צאנג לבנגקוק",
+    "hotel": "Siam At Siam Design Hotel Bangkok",
+    "guide": "ללא מדריך | Minibus פרטי כולל מעבורת | עלות משוערת לשירות: $172 ל-4",
+    "guide_cost": 172.0,
+    "items": [
+      {
+        "time": "07:00",
+        "from": "-",
+        "to": "ארוחת בוקר וצק-אאוט",
+        "drive": "-",
+        "stay": "שעה",
+        "cost": 172.0,
+        "what": "ארוחת בוקר וצק-אאוט",
+        "notes": ""
+      },
+      {
+        "time": "08:00",
+        "from": "Resort",
+        "to": "Ferry -> Bangkok Hotel",
+        "drive": "6.5-8 שעות",
+        "stay": "6.5-8 שעות",
+        "cost": 0.0,
+        "what": "יציאה מהאי, מעבורת והמשך ברכב פרטי לבנגקוק",
+        "notes": "יום מעבר; להשאיר מרווח למעבורת ולתנועה בבנגקוק"
+      },
+      {
+        "time": "16:00-17:30",
+        "from": "-",
+        "to": "הגעה משוערת, צק-אין ומנוחה",
+        "drive": "-",
+        "stay": "ערב",
+        "cost": 0.0,
+        "what": "הגעה משוערת, צק-אין ומנוחה",
+        "notes": ""
+      },
+      {
+        "time": "20:00",
+        "from": "-",
+        "to": "ברגל/Grab קצר",
+        "drive": "- ",
+        "stay": "ערב",
+        "cost": 0.0,
+        "what": "ארוחת ערב קרוב למלון. לא להעמיס",
+        "notes": ""
+      }
+    ],
+    "maps": [
+      {
+        "label": "Google Maps - Koh Chang → Bangkok",
+        "url": "https://www.google.com/maps/dir/?api=1&origin=Koh+Chang+Paradise+Resort+%26+Spa%2C+Trat%2C+Thailand&destination=Siam%40Siam+Design+Hotel+Bangkok%2C+865+Rama+I+Rd%2C+Bangkok%2C+Thailand&travelmode=driving&waypoints=Ao+Thammachat+Ferry%2C+Trat%2C+Thailand"
+      }
+    ],
+    "costs": {
+      "guide": 172.0,
+      "attr": 0.0,
+      "without_hotel": 172.0,
+      "hotel_night": 313.76922,
+      "total": 485.76922
+    },
+    "route": [
+      {
+        "name": "Koh Chang Paradise Resort",
+        "lat": 12.06,
+        "lon": 102.289
+      },
+      {
+        "name": "Ao Thammachat Ferry",
+        "lat": 12.181,
+        "lon": 102.3
+      },
+      {
+        "name": "Siam@Siam Bangkok",
+        "lat": 13.746,
+        "lon": 100.53
+      }
+    ]
+  },
+  {
+    "date": "28.03.2027",
+    "weekday": "יום ראשון",
+    "title": "בנגקוק - נהר, Wat Arun ו-ICONSIAM",
+    "hotel": "Siam At Siam Design Hotel Bangkok",
+    "guide": "מדריך פרטי מומלץ + תחבורה מקומית | עלות משוערת לשירות: $164 ל-4",
+    "guide_cost": 164.0,
+    "items": [
+      {
+        "time": "09:00",
+        "from": "Hotel",
+        "to": "Thonburi Pier",
+        "drive": "תלוי תנועה",
+        "stay": "30 דקות",
+        "cost": 164.0,
+        "what": "איסוף מהמלון עם מדריך פרטי",
+        "notes": "בגשם: השייט תלוי בעוצמה; ICONSIAM מתאים מאוד"
+      },
+      {
+        "time": "09:30-11:00",
+        "from": "-",
+        "to": "Thonburi canals",
+        "drive": "שייט",
+        "stay": "1.5 שעות",
+        "cost": 75.0,
+        "what": "שייט פרטי בתעלות Thonburi - בתי עץ, חיי נהר ומקדשים מהמים",
+        "notes": "בגשם חזק: לדחות/לקצר שייט"
+      },
+      {
+        "time": "11:00-12:00",
+        "from": "סירה/מזח",
+        "to": "Wat Arun",
+        "drive": "קצר",
+        "stay": "שעה",
+        "cost": 24.0,
+        "what": "Wat Arun - ביקור ממוקד וצילומים, בלי להעמיס מקדשים נוספים",
+        "notes": "מתאים גם לגשם קל"
+      },
+      {
+        "time": "12:30-13:30",
+        "from": "Wat Arun",
+        "to": "Riverside",
+        "drive": "קצר",
+        "stay": "שעה",
+        "cost": 0.0,
+        "what": "ארוחת צהריים על הנהר",
+        "notes": ""
+      },
+      {
+        "time": "14:00-17:00",
+        "from": "Riverside",
+        "to": "ICONSIAM",
+        "drive": "קצר",
+        "stay": "3 שעות",
+        "cost": 0.0,
+        "what": "ICONSIAM - קניות, אוכל, מיזוג ונוף לנהר",
+        "notes": ""
+      },
+      {
+        "time": "19:30",
+        "from": "ICONSIAM",
+        "to": "Hotel",
+        "drive": "20-40 דקות",
+        "stay": "ערב",
+        "cost": 0.0,
+        "what": "ערב אחרון: Rooftop/ארוחת ערב חגיגית",
+        "notes": ""
+      }
+    ],
+    "maps": [
+      {
+        "label": "Google Maps - Wat Arun + ICONSIAM",
+        "url": "https://www.google.com/maps/dir/?api=1&origin=Siam%40Siam+Design+Hotel+Bangkok%2C+865+Rama+I+Rd%2C+Bangkok%2C+Thailand&destination=Siam%40Siam+Design+Hotel+Bangkok%2C+865+Rama+I+Rd%2C+Bangkok%2C+Thailand&travelmode=driving&waypoints=Wat+Arun%2C+Bangkok%2C+Thailand|ICONSIAM%2C+Bangkok%2C+Thailand"
+      }
+    ],
+    "costs": {
+      "guide": 164.0,
+      "attr": 99.0,
+      "without_hotel": 263.0,
+      "hotel_night": 313.76922,
+      "total": 576.76922
+    },
+    "route": [
+      {
+        "name": "Siam@Siam Bangkok",
+        "lat": 13.746,
+        "lon": 100.53
+      },
+      {
+        "name": "Wat Arun",
+        "lat": 13.7437,
+        "lon": 100.4888
+      },
+      {
+        "name": "ICONSIAM",
+        "lat": 13.7264,
+        "lon": 100.51
+      },
+      {
+        "name": "Siam@Siam Bangkok",
+        "lat": 13.746,
+        "lon": 100.53
+      }
+    ]
+  },
+  {
+    "date": "29.03.2027",
+    "weekday": "יום שני",
+    "title": "יום אחרון וטיסת לילה",
+    "hotel": "טיסה הביתה",
+    "guide": "ללא מדריך | הסעה פרטית למלון→BKK | עלות משוערת לשירות: $45 ל-4",
+    "guide_cost": 45.0,
+    "items": [
+      {
+        "time": "בוקר",
+        "from": "-",
+        "to": "ארוחת בוקר, צק-אאוט ושמירת מזוודות",
+        "drive": "-",
+        "stay": "בוקר",
+        "cost": 45.0,
+        "what": "ארוחת בוקר, צק-אאוט ושמירת מזוודות",
+        "notes": ""
+      },
+      {
+        "time": "10:30-16:30",
+        "from": "-",
+        "to": "סביב המלון",
+        "drive": "נסיעות קצרות",
+        "stay": "6 שעות",
+        "cost": 0.0,
+        "what": "יום חופשי בלבד: קניות באזור Siam, קפה ומסאז. לא לקבוע אטרקציות עם שעה קשיחה",
+        "notes": "בגשם: קניונים ומסאז"
+      },
+      {
+        "time": "19:00 בערך",
+        "from": "Siam At Siam",
+        "to": "BKK Airport",
+        "drive": "45-90 דקות",
+        "stay": "45-90 דקות",
+        "cost": 0.0,
+        "what": "איסוף מזוודות ויציאה לשדה. להשאיר לפחות 4 שעות לפני טיסה 23:55",
+        "notes": "ללא שינוי"
+      },
+      {
+        "time": "23:55",
+        "from": "-",
+        "to": "טיסה LY82 Bangkok -> Tel Aviv; נחיתה 30.3 בשעה 06",
+        "drive": "10:50 שעות",
+        "stay": "10:50 שעות",
+        "cost": 0.0,
+        "what": "טיסה LY82 Bangkok -> Tel Aviv; נחיתה 30.3 בשעה 06:45",
+        "notes": ""
+      }
+    ],
+    "maps": [
+      {
+        "label": "Google Maps - מלון → BKK",
+        "url": "https://www.google.com/maps/dir/?api=1&origin=Siam%40Siam+Design+Hotel+Bangkok%2C+865+Rama+I+Rd%2C+Bangkok%2C+Thailand&destination=Suvarnabhumi+Airport%2C+Bangkok%2C+Thailand&travelmode=driving"
+      }
+    ],
+    "costs": {
+      "guide": 45.0,
+      "attr": 0.0,
+      "without_hotel": 45.0,
+      "hotel_night": 0,
+      "total": 45.0
+    },
+    "route": [
+      {
+        "name": "Siam@Siam Bangkok",
+        "lat": 13.746,
+        "lon": 100.53
+      },
+      {
+        "name": "Suvarnabhumi Airport",
+        "lat": 13.69,
+        "lon": 100.7501
+      }
+    ]
+  }
+]
