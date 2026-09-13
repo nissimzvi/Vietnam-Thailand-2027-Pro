@@ -1,7 +1,7 @@
-# Vietnam + Thailand 2027 - PRO V3
+# Viatnam_thaland_V4_13092026
 
-GitHub Pages package only.
-Version: Viatnam_thaland_V3_13092026
-Date: 13/09/2026
+GitHub Pages PRO V4.
 
-Upload the contents of this folder to the existing Vietnam-Thailand-2027-Pro repository root.
+- העלו את כל תכולת התיקייה לשורש ה-Repository `Vietnam-Thailand-2027-Pro`.
+- אין לשנות את שם `index.html`.
+- הגרסה כוללת עיצוב כותרת עם נוף ויאטנמי, 25 כפתורי ימים בצבעים שונים וסיכום עלויות בטבלת 3 עמודות.
