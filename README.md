@@ -1,12 +1,12 @@
-# Viatnam_thaland_V1_13092026
+# Viatnam_thaland_V2_13092026 — GitHub Pages PRO V2
 
-גרסת PRO מעודכנת לטיול ויאטנם + תאילנד 2027.
+גרסה זו מיועדת ל-GitHub Pages בלבד ונבנתה על בסיס גרסת PRO המאושרת.
 
-## העלאה ל-GitHub
-1. פתח את Repository הקובע `Vietnam-Thailand-2027-Pro`.
-2. Add file → Upload files.
-3. העלה את **התוכן של התיקייה** (index.html, day*.html, assets וכו') לשורש.
+להעלאה:
+1. היכנס ל-Repository הקבוע: `Vietnam-Thailand-2027-Pro`.
+2. Code → Add file → Upload files.
+3. העלה את כל הקבצים והתיקייה `assets` מתוך התיקייה הזו לשורש ה-Repository.
 4. Commit changes.
-5. Pages ממשיך לעבוד מ-main / root.
+5. GitHub Pages ייבנה אוטומטית מה-branch `main` ומה-root.
 
-הקישור ל״הטיולים שלי״ נשמר בכל עמוד.
+הגרסה כוללת 25 ימי טיול, מפה לכל יום, מסלולי Google Maps, מלונות, נהגים/מדריכים, עלויות ל-4 אנשים, תכניות גשם וסיכום כספי סופי.

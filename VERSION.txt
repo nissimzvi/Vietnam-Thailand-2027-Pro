@@ -1,3 +1,3 @@
-Viatnam_thaland_V1_13092026
-Built 13.09.2026
-Base: Vietnam-Thailand-2027-Pro v4
+Viatnam_thaland_V2_13092026
+PRO V2
+Built from approved PRO V1 itinerary. GitHub Pages only.
