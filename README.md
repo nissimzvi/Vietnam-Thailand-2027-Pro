@@ -1,6 +1,6 @@
-# Viatnam_thaland_V5_13092026
+# Viatnam_thaland_V6_13092026
 
-GitHub Pages PRO V5.
+GitHub Pages PRO V6.
 
 - העלו את כל תכולת התיקייה לשורש ה-Repository `Vietnam-Thailand-2027-Pro`.
 - אין לשנות את שם `index.html`.
