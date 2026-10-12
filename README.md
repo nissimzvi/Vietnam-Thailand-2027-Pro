@@ -1,7 +1,5 @@
-# Viatnam_thaland_V7_13092026
+Viatnam_thaland V12
 
-GitHub Pages PRO V7.
+Upload this folder as a new subfolder to GitHub Pages. Entry: index.html.
 
-- העלו את כל תכולת התיקייה לשורש ה-Repository `Vietnam-Thailand-2027-Pro`.
-- אין לשנות את שם `index.html`.
-- הגרסה כוללת עיצוב כותרת עם נוף ויאטנמי, 25 כפתורי ימים בצבעים שונים וסיכום עלויות בטבלת 3 עמודות.
+V12 changes: repaired daily itinerary card layout (full-width horizontal content), placed extra text inside content column, added gold car/plane/ship icons to nine transfer-day buttons. 16.03 remains a regular day. Google Maps stays hidden until button click.
