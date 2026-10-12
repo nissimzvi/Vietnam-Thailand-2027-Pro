@@ -1,7 +1,9 @@
-Viatnam_thaland V13
+Viatnam_thaland V14
 
 Upload this folder as a new subfolder to GitHub Pages. Entry: index.html.
 
-V13 changes: repaired daily itinerary card layout (full-width horizontal content), placed extra text inside content column, added gold car/plane/ship icons to nine transfer-day buttons. 16.03 remains a regular day. Google Maps stays hidden until button click.
+V14 changes: repaired daily itinerary card layout (full-width horizontal content), placed extra text inside content column, added gold car/plane/ship icons to nine transfer-day buttons. 16.03 remains a regular day. Google Maps stays hidden until button click.
 
-V13: Removed non-working embedded day map buttons from all 25 days; Google Maps route links remain.
+V14: Removed non-working embedded day map buttons from all 25 days; Google Maps route links remain.
+
+V14: Removed all oversized transfer SVG icons from the home day buttons. Transfer border and background retained.
